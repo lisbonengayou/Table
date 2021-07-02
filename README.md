@@ -1,2 +1,2 @@
-# 50 P-50 D
+# table
 link to my repository https://lisbonengayou.github.io/Table/
